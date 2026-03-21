@@ -1,7 +1,7 @@
 
 ## About Me
 
-The fact that we can read a sentence and communicate across vast distances — whether a few meters or millions of miles — reflects something remarkable about the nervous system: its ability to retain traces of the past and generate predictions about the future.
+The fact that we can read a sentence and communicate across vast distances, whether a few meters or millions of miles, reflects something remarkable about the nervous system: its ability to retain traces of the past and generate predictions about the future.
 
 In that sense, I am interested in “time machines” (obviously not literally), but as a way to think about how neural systems integrate memory and prediction.
 
