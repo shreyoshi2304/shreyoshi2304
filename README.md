@@ -79,6 +79,5 @@ If you have a favourite neuroscience paper, I would be very interested to read i
 
 ##  Contact
 
-* GitHub: https://github.com/shreyoshi2304
 * Email: shreyoshi.kundu@iiserpune.ac.in
 
